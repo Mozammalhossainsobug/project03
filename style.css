@@ -1,0 +1,81 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.div21{
+  background-image: url('young-girl-enjoying-moment-and-looking-over-the-city-of-san-francisco-picjumbo-com.png');
+  height: auto;
+}
+
+.bottom-left {
+       padding-top: 300px;
+       padding-left: 50px;
+       padding-bottom: 50px;
+}
+
+.div22{
+  background-image: url('55.png');
+  height: auto;
+}
+
+
+
+
+.button5 {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 2px;
+        border-color:white;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+      top: 90%;
+      margin-left: 80%;
+}
+
+
+.left-col{
+  font-size: 10.5px; 
+  border: 1px solid black; 
+  background-color: #FFFFFF;
+}
+
+
+.Categories{
+    border-bottom: 2px solid  #F9F9F9;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.popular{
+    border-bottom: 2px solid  #F9F9F9;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    width: 89%;
+    padding-left: 4%;
+}
+
+@media only screen and (min-width: 768px) {
+     ul li{
+  display: inline;
+  padding-right: 10px;
+}  
+}
+
+ul li{
+  padding-right: 10px;
+}
+
+
+.fab{
+  margin-right: 2px;
+  border-radius: 69%;
+}
